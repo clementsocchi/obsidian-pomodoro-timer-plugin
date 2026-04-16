@@ -1,7 +1,8 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "obsidian-pomodoro-timer-plugin",
+	"version": "0.1.0",
+	"description": "A Pomodoro timer with preset and notification management, integrated into Obsidian's status bar.",
+	"author": "Clément Socchi",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
